@@ -4,7 +4,7 @@ Creating a Sentiment Analysis Web App Using PyTorch and SageMaker
 # Project Overview:
 This project is the final project of Deep Learning program of Udacity. In this project I used SegaMaker to construct the project from beginning to end. I developed a simple website which take a user review on movie as input then predict which is positive or negative review by send the review to my model which will predict the sentiment of the entered review.
 
-![Screen%20Shot%202019-07-09%20at%204.02.18%20PM.png](attachment:Screen%20Shot%202019-07-09%20at%204.02.18%20PM.png)
+<img width="965" alt="Screen Shot 2019-07-12 at 8 25 42 PM" src="https://user-images.githubusercontent.com/46428156/61146692-4db8d100-a4e3-11e9-9c4a-e4d703ca1347.png">
 
 # Project Instructions:
 ## Instruction
